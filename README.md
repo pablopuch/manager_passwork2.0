@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![](/screenshot/logo.png)
 
 # Manager Password
 
@@ -7,11 +7,10 @@ Manager Password es un gestor de contraseñas construido con Laravel 11, Livewir
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso](#uso)
 - [Características](#características)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
-- [Autor](#autor)
+- [Screenshots](#screenshots)
 
 ## Instalación
 
@@ -69,13 +68,6 @@ Realiza los commits necesarios ```git commit -m 'Agrega nueva característica'``
 Haz push a la rama ```git push origin feature/nueva-caracteristica```.
 Abre un Pull Request.
 
-<<<<<<< HEAD
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Screenshots
-
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-=======
 ## Contacto
 
 Si tienes alguna pregunta o quieres discutir algún reto en particular, puedes contactarme a través de [pablopuch21@hotmail.com](mailto:pablopuch21@hotmail.com).
@@ -83,4 +75,9 @@ Si tienes alguna pregunta o quieres discutir algún reto en particular, puedes c
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo [LICENSE](./LICENSE).
->>>>>>> 48deb04a0a5c2180ce1f1bf2934d9915de648bbf
+
+## Screenshots
+
+![](/screenshot/Screenshot_2.png)
+![](/screenshot/Screenshot_1.png)
+![](/screenshot/Screenshot_3.png)
