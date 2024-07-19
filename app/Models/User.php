@@ -46,4 +46,15 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    //relations
+    public function passworks()
+    {
+        return $this->hasMany(Passwork::class);
+    }
+
+    public function passgroups()
+    {
+        return $this->hasMany(Passgroup::class);
+    }
 }

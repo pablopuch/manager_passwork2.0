@@ -33,7 +33,14 @@ new class extends Component
                     <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')" wire:navigate>
                         {{ __('Dashboard') }}
                     </x-nav-link>
+                    <x-nav-link :href="route('passworks.index')" :active="request()->routeIs('passworks.index')" wire:navigate>
+                        {{ __('PassWork') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('passgroups.index')" :active="request()->routeIs('passgroups.index')" wire:navigate>
+                        {{ __('Groups') }}
+                    </x-nav-link>
                 </div>
+
             </div>
 
             <!-- Settings Dropdown -->
